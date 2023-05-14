@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/vayu-repo.gpg] https://vacuumbeef.github.io/vayu-repo ./
