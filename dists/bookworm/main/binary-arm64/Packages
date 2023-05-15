@@ -5,15 +5,15 @@ Priority: optional
 Section: metapackages
 Maintainer: vacuumbeef
 Installed-Size: 9
-Depends: adaptation-hybris-api28-phone, adaptation-lavender-configs, wlr-randr
+Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr
 Filename: pool/main/adaptation-droidian-vayu_0.0+1_all.deb
-Size: 2080
-MD5sum: 7ab99bdf1618c01907a76dffe0549ba3
-SHA1: 57c57ccd3151cd3113ec092fd20b9f0884a8c428
-SHA256: 99744bab0136eb68cde34cfb9e0e347b678aabf2357b0a1c84670ecb1ede28cf
-SHA512: c5cf9895cfad967489f5fc8bd3786cc84c9d992f43103e2738c9f5c600335a581385bb55bd7ccc3e8da37eff0242e06f13fad7e2c3d228a399a6b9e47d42f1c5
+Size: 2084
+MD5sum: d08027569743425bc1e6d14afdba7131
+SHA1: 2a6223d4335395b5551212d45a35a547d929927e
+SHA256: 1d8a2c227ca293a91697ab78129b24f729e673e345d339ecc6d33274e99286e0
+SHA512: 0ebb470a1374066c85019c902966fcf472a346a9049075b7db13d7025399f8eade2366411444707ca9788be12ae15c088c641fde3cf739322520c4ce825132b9
 Description: adapatation-vayu-meta
- lavender api28 adaptation metapackage
+ vayu api30 adaptation metapackage
 
 Package: adaptation-vayu-configs
 Architecture: all
@@ -22,12 +22,12 @@ Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 96
+Installed-Size: 106
 Filename: pool/main/adaptation-vayu-configs_0.0+1_all.deb
-Size: 7800
-MD5sum: 5a11f5c12d4cd85dd5b8a46ffee9cee2
-SHA1: 3886808bb4947c2414c3fc534b3d06eee59d0464
-SHA256: 99eba3000534f2011a8c9003c2e1a0c0324f33003fa96eecf4712e9c3758be1f
-SHA512: 7b1e2f20efc7c6ca7daa9d184221ce0ba3db04d66c4257ba4fe0cfea5919f69cc14e5a295d20b449a0e48a19cb3e2f8b46cc55c7fedc719f7477e0934fac9ce2
+Size: 8100
+MD5sum: 136a5087351afba830aa7aec4ae8140b
+SHA1: 4efdaad4c953c2408641a50128aa50b0b722a9af
+SHA256: 86dd952ab54fdc37308fb178836d5f891cc7a3b95d65b87e6871d68d4859eeea
+SHA512: c9344980a3c7b8c431a8f6e932ccea96bee4e056358c38d7eab6e468f60acc61fc47219d48865d076273cb63309667398c0cc2358c68fbeeb2022d1d5a4d5766
 Description: vayu's adaptation configs
 
