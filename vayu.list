@@ -1,1 +1,1 @@
-deb [arch=all] https://vacuumbeef.github.io/vayu-repo bookworm main
+deb [arch=arm64] https://vacuumbeef.github.io/vayu-repo bookworm main
