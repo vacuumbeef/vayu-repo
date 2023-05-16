@@ -1,7 +1,7 @@
 Architectures: arm64
 Codename: bookworm
 Components: main
-Date: Mon, 15 May 2023 18:08:39 +0000
+Date: Tue, 16 May 2023 10:49:55 +0000
 Description: Repository for xiaomi vayu
 Label: vacuumbeef
 Origin: vacuumbeef
@@ -9,7 +9,7 @@ Suite: bookworm
 MD5Sum:
  9564a6b0be28632c81a29ef79cad92a0              498 Contents-arm64.bz2
  ec440662998b20474e1806c5bf20bdcb              414 Contents-arm64.gz
- 93ebc4a415ddd6a9fc047e2e90695e28              188 Release
+ 82cca7739a9ec2bc5d62e351db965a7f              188 Release
  9564a6b0be28632c81a29ef79cad92a0              498 main/Contents-arm64.bz2
  ec440662998b20474e1806c5bf20bdcb              414 main/Contents-arm64.gz
  4e8198697fdffd236ec601cd1f0d7202             1254 main/binary-arm64/Packages
@@ -18,7 +18,7 @@ MD5Sum:
 SHA1:
  cb8242b551e123de594205b1493fc3b1287faa63              498 Contents-arm64.bz2
  96a917491bbed27f4897fc389c6db4cec3787913              414 Contents-arm64.gz
- bef060c8f091e8cc9b3467e6fa2dde855609b66f              188 Release
+ 29850eccd10ea3501e3dbafbd23f87aa635e93d1              188 Release
  cb8242b551e123de594205b1493fc3b1287faa63              498 main/Contents-arm64.bz2
  96a917491bbed27f4897fc389c6db4cec3787913              414 main/Contents-arm64.gz
  d0f082a482153baefcc81df7d52d7a238a5698d8             1254 main/binary-arm64/Packages
@@ -27,7 +27,7 @@ SHA1:
 SHA256:
  a8fbee4d2bf89488222870b03b42244751ca503b70a2585638c6b0ea092d1565              498 Contents-arm64.bz2
  1f00f8f88ec02bb552d34b62597c6bd147a96ed49bfaf8d8ee2368dc7e9ecea3              414 Contents-arm64.gz
- 97b5019c9f647424a143dbf9db2f4875a954ac5d8dbe3d249d6873b59fac3dca              188 Release
+ 78c6a99671eb10af3175bdee8a4a892bacdde67d970157ae3d258075a5e6c5ba              188 Release
  a8fbee4d2bf89488222870b03b42244751ca503b70a2585638c6b0ea092d1565              498 main/Contents-arm64.bz2
  1f00f8f88ec02bb552d34b62597c6bd147a96ed49bfaf8d8ee2368dc7e9ecea3              414 main/Contents-arm64.gz
  a7281038232ae4f249589b11643a534a0131a009d8ac0ca0aa7de82e9a54ea11             1254 main/binary-arm64/Packages
@@ -36,7 +36,7 @@ SHA256:
 SHA512:
  a58c9e894b725698b16f3d860ecfdcef5f16193c286e71b2410222f73836f59cfd7c2dfb329206b10ecd3c7f8eabd5ad19e6b6bf16055ba1c330388bfcf677f5              498 Contents-arm64.bz2
  038302c0b4e45d5549fc613abb3a8a8f1a29a77abbe18a8bebb538594b3c2a4547c5479bbabb9003ea91afa2922a9e8ec9430421e80c8d7dec4b21623bc6c7ec              414 Contents-arm64.gz
- 6eac1a82000ef73de4801e44f22a56393ec4f89a9b38b97cd558830e880cd355d55df633b7ec06031a9c0ee12b64628c045077661597a4157e14b37da1baf80d              188 Release
+ 31179789351ee4928f979ca8fb32d3d91107e37d0547ab85f81b19f2110f12d1bbda47c8a4d9ca3f6ab333c6cbd5ca3548ea2bda59d63fceea62ad167ace34d2              188 Release
  a58c9e894b725698b16f3d860ecfdcef5f16193c286e71b2410222f73836f59cfd7c2dfb329206b10ecd3c7f8eabd5ad19e6b6bf16055ba1c330388bfcf677f5              498 main/Contents-arm64.bz2
  038302c0b4e45d5549fc613abb3a8a8f1a29a77abbe18a8bebb538594b3c2a4547c5479bbabb9003ea91afa2922a9e8ec9430421e80c8d7dec4b21623bc6c7ec              414 main/Contents-arm64.gz
  b6d21c22cdd0cc8ae6c87509b065c15b02e6fb743a275760cd8bd16e5f6c3bae58da1f5ed8db043d60da462c2d211a8eb5d8667b47303b020404541c1cdced82             1254 main/binary-arm64/Packages
