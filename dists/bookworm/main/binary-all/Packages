@@ -1,34 +1,34 @@
 Package: adaptation-droidian-vayu
 Architecture: all
-Version: 0.0+1
+Version: 0.0+2
 Priority: optional
 Section: metapackages
 Maintainer: vacuumbeef
 Installed-Size: 9
 Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr
-Filename: pool/main/adaptation-droidian-vayu_0.0+1_all.deb
+Filename: pool/main/adaptation-droidian-vayu_0.0+2_all.deb
 Size: 2084
-MD5sum: d08027569743425bc1e6d14afdba7131
-SHA1: 2a6223d4335395b5551212d45a35a547d929927e
-SHA256: 1d8a2c227ca293a91697ab78129b24f729e673e345d339ecc6d33274e99286e0
-SHA512: 0ebb470a1374066c85019c902966fcf472a346a9049075b7db13d7025399f8eade2366411444707ca9788be12ae15c088c641fde3cf739322520c4ce825132b9
+MD5sum: 54227528c744f355b196a9bbf7e7813f
+SHA1: b26e56d8dac2ead93ee3a4a6b54051d3d1246c06
+SHA256: 4818a5f9e4d5d1a68ce0e7f98d5392e5065934f09eaa6b175a0fbd6507702c70
+SHA512: e40928f4130f655e9e682916aa8336400921fd34b216bb0e972721fefb7b6e63258bb79ea3d63027a847d4d56ac63650ff1ac43bed98285bd3f85c7cdab0083a
 Description: adapatation-vayu-meta
  vayu api30 adaptation metapackage
 
 Package: adaptation-vayu-configs
 Architecture: all
-Version: 0.0+1
+Version: 0.0+2
 Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 172
+Installed-Size: 182
 Depends: dconf-gsettings-backend | gsettings-backend
-Filename: pool/main/adaptation-vayu-configs_0.0+1_all.deb
-Size: 18624
-MD5sum: f8b37082b0b13147008b2c84fa12e0a0
-SHA1: 3dcc64f90f0561c1122c36d05859dcd9c450ce4b
-SHA256: 910828a5ac20dbc23734df8b716577003e136b6f61432832074113922faf9319
-SHA512: c8f6d5b7f91cb18934babe80761387c1c52305183b0e7f2f8bf8519e90c6cf82711d5a255527186e67b8b17f9ff2055631bad7955adb92fa00608accd69e576e
+Filename: pool/main/adaptation-vayu-configs_0.0+2_all.deb
+Size: 19492
+MD5sum: 8d6114336c89d1237687c921f8fd8ddb
+SHA1: 5cdd9aebca47c3e608baf4bb558e8735238b4a4a
+SHA256: 0537e09ded509fee03df65c1b4715d4360497a707fb7e6d6bade6a7a293099ab
+SHA512: 208a03b4f9a7dd477a0dc881a33f4b88f18217b6dc8febf2057e3755c9900cf318cabc8489deb2da9494335fe49be44abc0ef412d1759d4351a1d56f6e2b2e9b
 Description: vayu's adaptation configs
 
