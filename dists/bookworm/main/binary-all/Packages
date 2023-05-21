@@ -7,11 +7,11 @@ Maintainer: vacuumbeef
 Installed-Size: 9
 Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr
 Filename: pool/main/adaptation-droidian-vayu_0.0+1_all.deb
-Size: 2084
-MD5sum: d08027569743425bc1e6d14afdba7131
-SHA1: 2a6223d4335395b5551212d45a35a547d929927e
-SHA256: 1d8a2c227ca293a91697ab78129b24f729e673e345d339ecc6d33274e99286e0
-SHA512: 0ebb470a1374066c85019c902966fcf472a346a9049075b7db13d7025399f8eade2366411444707ca9788be12ae15c088c641fde3cf739322520c4ce825132b9
+Size: 2076
+MD5sum: 28c60119a15bdc2241fddb0f1627c695
+SHA1: dbe07f988c976c943b21e43173f3c8dc5321c956
+SHA256: e7b52b479f89f9cc79c373a4fa068fce66f031189ac414c2abe57ed492a7f7a0
+SHA512: 18c008dd511c792567ccf19d7bac5eeb9a09a7f699ee7e897b3fc1cdb5bd0757b940070b7ce3f6708e4312fbf1ba32de02fe41ad3e21d6b98bbde05aa8c520d3
 Description: adapatation-vayu-meta
  vayu api30 adaptation metapackage
 
@@ -22,13 +22,13 @@ Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 172
+Installed-Size: 173
 Depends: dconf-gsettings-backend | gsettings-backend
 Filename: pool/main/adaptation-vayu-configs_0.0+1_all.deb
-Size: 18624
-MD5sum: f8b37082b0b13147008b2c84fa12e0a0
-SHA1: 3dcc64f90f0561c1122c36d05859dcd9c450ce4b
-SHA256: 910828a5ac20dbc23734df8b716577003e136b6f61432832074113922faf9319
-SHA512: c8f6d5b7f91cb18934babe80761387c1c52305183b0e7f2f8bf8519e90c6cf82711d5a255527186e67b8b17f9ff2055631bad7955adb92fa00608accd69e576e
+Size: 18712
+MD5sum: 891a2bf702eff0a1de66701f0746623d
+SHA1: 86a6a7c1a1601921e7c051c668c0af9e873f34e6
+SHA256: c191693f6160c272b94fb6ba02906288c73a2838d6b512fcad2b069e679917ee
+SHA512: cbcf1747cc9c3bff67650cdee6f8f5f89d138ffaae1df0280d7f2e3ba84c6a99d54b53021ff29c2042345cb134f0cf0be4b3378681b8fa51397c1af4c58c5d0f
 Description: vayu's adaptation configs
 
