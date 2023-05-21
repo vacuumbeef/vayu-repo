@@ -25,10 +25,10 @@ Maintainer: vacuumbeef
 Installed-Size: 172
 Depends: dconf-gsettings-backend | gsettings-backend
 Filename: pool/main/adaptation-vayu-configs_0.0+1_all.deb
-Size: 18616
-MD5sum: e4ad8b68e06561dbe4c74db8bc6e2110
-SHA1: ca98abd82a17b80e2cb82c1ebf12795da68cd16f
-SHA256: fe29c291ae0f14bf5ce41d708b853527a3b7a50dbe3e1e40f20c2238ce4b25fc
-SHA512: a8b53769d749bff44c939b87b4f606f9344c75fa6c173d53f14c4cb9271ddd489de41f089549b605a3f1fbe5d7caa46bcc39cca84a62818a40665fb74722c918
+Size: 18684
+MD5sum: 4c1bd47cbca80c3a3638bfe98bf86e19
+SHA1: 4cbfe4d02f9845ba5c15aa4bb2e7b69e04961e90
+SHA256: 7492498b34f278c684a4739fd71182f8e42887eea0738cef576146b21011c5c2
+SHA512: 249971c5143131eacf784f55b3da90985bf34bf30fb4d8c5942d4661f5937d98961cd39019f00c76718893630fffa45573911e3367028913aa19491c3b2d2484
 Description: vayu's adaptation configs
 
