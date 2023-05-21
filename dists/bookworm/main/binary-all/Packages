@@ -22,13 +22,13 @@ Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 172
+Installed-Size: 171
 Depends: dconf-gsettings-backend | gsettings-backend
 Filename: pool/main/adaptation-vayu-configs_0.0+1_all.deb
-Size: 18684
-MD5sum: 4c1bd47cbca80c3a3638bfe98bf86e19
-SHA1: 4cbfe4d02f9845ba5c15aa4bb2e7b69e04961e90
-SHA256: 7492498b34f278c684a4739fd71182f8e42887eea0738cef576146b21011c5c2
-SHA512: 249971c5143131eacf784f55b3da90985bf34bf30fb4d8c5942d4661f5937d98961cd39019f00c76718893630fffa45573911e3367028913aa19491c3b2d2484
+Size: 18584
+MD5sum: 908410765f501860c74c4d0a3001e5d5
+SHA1: 854d56b41f8c8f3da3aaa94a25dd214c1cb47c53
+SHA256: a042113f6b323f0de522896f160f59498571dfc5e037c6c0ec608d3ca13f07de
+SHA512: af751395aaa94918081a2b1268a2512f1841a6b45f9d27c62a8e0c1294812367a6454911bff4b4c0d99cdf411ecb1ff60c128abcb5789f558844d3f27a7f5c9f
 Description: vayu's adaptation configs
 
