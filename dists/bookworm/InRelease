@@ -4,7 +4,7 @@ Hash: SHA512
 Architectures: all
 Codename: bookworm
 Components: main
-Date: Mon, 22 May 2023 09:16:26 +0000
+Date: Mon, 22 May 2023 10:46:16 +0000
 Description: Repository for xiaomi vayu
 Label: vacuumbeef
 Origin: vacuumbeef
@@ -12,52 +12,52 @@ Suite: bookworm
 MD5Sum:
  98402fc3e141be6e82bf3afaf962070d              747 Contents-all.bz2
  f4cf939ac5b34c8fedff826f38134413              626 Contents-all.gz
- 0fa3b0ff2279ba040ed67c6dcb042d37              186 Release
+ ea45ecd4f8bba68cafc6f7368c41014d              186 Release
  98402fc3e141be6e82bf3afaf962070d              747 main/Contents-all.bz2
  f4cf939ac5b34c8fedff826f38134413              626 main/Contents-all.gz
- 9f1c01b781fb330ba7d2d1eda31982b5             1299 main/binary-all/Packages
- 218e63b2d2463bfae5cf8952abd56edf              751 main/binary-all/Packages.bz2
- a9daf8032bac513ef9ee060aa52bf602              698 main/binary-all/Packages.gz
+ d4981b5b1bebd7fda00a0ecab877080a             1307 main/binary-all/Packages
+ 404136bdd2a2cae1755fb91b0f2c6f00              764 main/binary-all/Packages.bz2
+ e88869e1abb95d9d95dbaded33d3000e              705 main/binary-all/Packages.gz
 SHA1:
  436c30c1a1750ee017d85c120b2ee487469bb498              747 Contents-all.bz2
  db29cdbb0e71a3426e8d62631b2776d5b5f3c16a              626 Contents-all.gz
- 8ff48a5cbeaea95d68a3c86738d36cac95baab57              186 Release
+ 09da2a7b3f6000654d2ec0181ae7c19100a73686              186 Release
  436c30c1a1750ee017d85c120b2ee487469bb498              747 main/Contents-all.bz2
  db29cdbb0e71a3426e8d62631b2776d5b5f3c16a              626 main/Contents-all.gz
- 84d26175901f5c65ce51521c9ec6518c8060c5cf             1299 main/binary-all/Packages
- f14d428ff0f6fa0d2b8dca3ec3be8668d53d0e50              751 main/binary-all/Packages.bz2
- 2abaa05e2e8803068ce24b58b4567b323fa55e27              698 main/binary-all/Packages.gz
+ 26d80be25df355917500c85019703cabca00116c             1307 main/binary-all/Packages
+ 2fba611179ae344eb237f5bd596635226ce98a2e              764 main/binary-all/Packages.bz2
+ f2f512409d85da2315b869e1df0b31c9bc13e018              705 main/binary-all/Packages.gz
 SHA256:
  bdc6a9e59046506958c1bc3e74956f9d831347d17f06747e28fd2ea21dc131bd              747 Contents-all.bz2
  87ac5b95a0ec3778943d50fbdc3e98ec4bf9342068e4ccdc68e2cd1d5fcfdff5              626 Contents-all.gz
- 84d788fb4b6fa311645641cd6bbabadc4fa2ac879fc189437b175d175f556931              186 Release
+ d1c18b58e26d343dd1f82705734c500355e30f00c61ac2664b7134c25f0b24a1              186 Release
  bdc6a9e59046506958c1bc3e74956f9d831347d17f06747e28fd2ea21dc131bd              747 main/Contents-all.bz2
  87ac5b95a0ec3778943d50fbdc3e98ec4bf9342068e4ccdc68e2cd1d5fcfdff5              626 main/Contents-all.gz
- e76894fc5794fbe18bcbaa314ced060fbebd4d60be742b518ecbfc616d8db1e3             1299 main/binary-all/Packages
- 20cc5b52e580d544059675b40d56d09c4b981c71af087ea2a7fc42ef381909a2              751 main/binary-all/Packages.bz2
- 509bece527f0d67eacfb5aaa5ed5c7e55369574e01765e835978ad7c7f10f638              698 main/binary-all/Packages.gz
+ 9fab4a60847349735f02f537010a575fadf489e669de881f641963f600ce9e17             1307 main/binary-all/Packages
+ 5d306094154ef3f6a367f5590be9eb0484228decd9f0e2d6a31fdd53c3448bfc              764 main/binary-all/Packages.bz2
+ f27c9d3b2ed2036393b997804b8601e34774ffbd1f10bf3af7c64706e61be463              705 main/binary-all/Packages.gz
 SHA512:
  ca35252d8a15871ae70b45208ab76f76a03a7316506cbc4e8c1938d5d02bc5edf6ec0fa41aedc4aa2bc7288aa42a4420bb14af0d5579f1a4f69a286a5a3bdd77              747 Contents-all.bz2
  3cae86bf4fa1a1f0d46364f7c48765595b8036c4c76924c791e2230c22ed5e69f18136842be64e70d59fda09a78833471e8b64d515ff12359a47798b8cbd0233              626 Contents-all.gz
- fd9b100646d9e3c3d93507ef909acc0bc2c92524547860a59883030973c187fcb4273e3d8a2cbcf86682f8f871e9a22559b14047ffca0d362890a2c635642f69              186 Release
+ fcf17d966fea5dc0a226f5ff3dcbd108ba63711771c46e121f02ce7dd42a782f9fd0f4198882347d30f12c96b7ddcd3848a701ad25340eeeb5ec437e4c1ce541              186 Release
  ca35252d8a15871ae70b45208ab76f76a03a7316506cbc4e8c1938d5d02bc5edf6ec0fa41aedc4aa2bc7288aa42a4420bb14af0d5579f1a4f69a286a5a3bdd77              747 main/Contents-all.bz2
  3cae86bf4fa1a1f0d46364f7c48765595b8036c4c76924c791e2230c22ed5e69f18136842be64e70d59fda09a78833471e8b64d515ff12359a47798b8cbd0233              626 main/Contents-all.gz
- 1b02ee9344ecdf50bc420637ece0b5f70cab85d122b9b731c07bdbac79e63873abc34d67f07c1fdc0e38c45c0e999e7cac96d84de1a7dc4e0b4e61f2ec93bcf2             1299 main/binary-all/Packages
- 28fb623ae3ab33a7073033cfd4f91b3beab6a340e7826d595e2218a6c244b988bf0cb69d970003378981ba9812fe116b7ba42e34e2b27d53f54d9b46bfaec118              751 main/binary-all/Packages.bz2
- 8536df8c79583b0e58fa4eda2fbacb5dad663e58625e252cb99c77a28fecf5126c63563cff95add12ffedf89d8de7d7c76d59d686235fcffecd77471abf0be3e              698 main/binary-all/Packages.gz
+ def2de3bdb781a43378342fcff7b12198e587bf77b5a54664f8ea48b760095b993dd4185cee83383b603aec6ccab758773b299fd497ebfa95001b0d26ec6d39f             1307 main/binary-all/Packages
+ cd0bbba54c2e8edc3fd4bbb0ae0d4fda20a88661682b608c70780714a51f894211f924633c6053002e2e3ab55d9589e29eaf91a7bb236b19af92ff0e4ea5f93e              764 main/binary-all/Packages.bz2
+ 261fb1884f21b25f3885b53d86e32ef0981c76b34573b26a3d5a87cfe212cd6def9081f4d7c2c30ef75136249aceb0b7880da8d82940ce87dd63c6075909ce55              705 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESbgNwdDPTX85UIFSrUDr7HWcZMAFAmRrMvIACgkQrUDr7HWc
-ZMAUlw/8DGB4tzlXcm1ekp1KSHckfjsVRCUgfgfdSaem3BfMm13WbrlScW20BJA+
-7gAhTnHL/HAmz+LRQh9sbN0BLHdBuvSbskkINoN8m39s+2vVTg2QJVzlwMdGfSD1
-WD6pEukXlyBa5OSmXA6QXjxEUpc7JPFh9/b2mbiT3OpQbc0KoaB8leJb9cGWk4C/
-WBEEFC82QAEv2o7mDKsWLyT2hGiBpugR3yTvmiLNoOXC/DtZKQip7AY+7jPjGzIV
-BCJ2/UQlkapXUlFQ5jkq91RpJVPBTijrXNaZSkJRK2vP1mH90FyOfuIeUSvy7JNd
-TOAQqH3T+DAemhdz13LMVLJx72i/QnFFtMWFQ0R1+TZF0SvV+gtf+lTlrao5VXJm
-8dHw0aavY1RmMfY+j1ZdkXSth69Yq4cXo0zRa2eaKbM/FnmbYVGFt3442F1iTqn/
-aOgWxxmPXD/+B8YlI48qywDrWnX4BBtxnATR++B4OX8vPRypUbELLGryBYNJEXu2
-6g4618CvCflNsKfiPXYSbJTdtMMirBYuuebDsLKj+A4R7RRok8Es4kdHONpj2K6Y
-ZsnMDJAm2YCm6aPMrBfyLkRAi9s81vfNSMJWtgNkur3+ygwJSC02YAgnvL8yW/Wy
-m2DgAH0Rin6g//DwPbMSR76hlk1XlVOgjQHk10uQEwzEmNHxdjI=
-=OoPE
+iQIzBAEBCgAdFiEESbgNwdDPTX85UIFSrUDr7HWcZMAFAmRrSAkACgkQrUDr7HWc
+ZMBEGQ//fjUHcE8+mcSyK3oZ1xc8KuEzspXDayiCHECtRVK50M1Ol78I9kMuv6Pn
+8oWgTQUpsOgvU+G+InOtVip5o1T+Mu8umKDV91Rgfpi2teE3nbWoBWa67FPo6NcT
++1vE8btNY0lVxvDSXosMHprF3DXWbYafMzZrFZLEG6NyY7QPeFx1fyHisUhoBu4Z
+tehx3cPyZDLd0K7PJCaORXo5iAbMpGXWGxf+DRWo7LjhKBwr1YCGkjdsWI9dNv+A
+th+yt7tLNqdgm14OSkoyd8pEDqtGQt5IV+Ev5p2xdUhYnwkvF3Hd42duJOA7gm4b
+zuXUNyL0LbaJMwMwWAazgM1eVJJvu6hS78kbg00hN380eLEZeI/I70zTmcTHdcfw
+f7WfoaAKbhefnDdsc8erWq37HzEk8ieCha2BzM38YQ+GfwImt6S/reUZFmlBPFEA
+0IlWQ5ckvHRskNnQgimmmr5/EprmqGjYSdsWIfQRnpCDNJo8C+ZtFh+xoAmgXZhR
+dUb3nfIIy0ovSgmUhHlvkQt525pq+DfX9XurKVdPAmp9Vmj+jIfd4EO8kXPZtG82
+iXopcf4c/Y1x2NfbK35vUiQFI47O1NhWkRlMxwE91yPJMO9IVl/FpjsT2iZENoB3
++Osj7MwAvtxiYzmlx/MktZKFBEHxMrEskiwYRJ+qdRLpvs5IT4k=
+=y7yY
 -----END PGP SIGNATURE-----
