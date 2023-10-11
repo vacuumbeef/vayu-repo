@@ -26,9 +26,9 @@ Installed-Size: 101
 Depends: dconf-gsettings-backend | gsettings-backend
 Filename: pool/main/adaptation-vayu-configs_0.1+3_all.deb
 Size: 10876
-MD5sum: 8b9fc2cc9e2d298121c73e5969a4d7ed
-SHA1: 4ce8d575ced22df59da9427b3949616b2ff99316
-SHA256: 513db83cf8a23badb263eac772cb89d1aece58d97218bf12a47768e12654db74
-SHA512: 495d517630e3918c59ee783f9d28c45c2dc26e206f07ce1730777c274d379bc1fbe03bc8e8ce31e639d3374ce87b1d40b4f3ae26361740bfe1918fb6931aa46e
+MD5sum: 13f7cdd65bb32081e08a8f4a53305bc2
+SHA1: 45ce601ec1644a3c36bdc7ab2df3146d23af49c2
+SHA256: a04547348c2b9be3688efa399f336a8d90541300b0205e43175925b92626cf42
+SHA512: fc60ea91d2f39a25fcc3f7e7ed55f70d2ce7e5d8a7818b4a6bff1bce5e3fdba81c17da6be9d3e3a3d24485abde674cc2c3b940a9c633d21ceeaf6f6636dd164b
 Description: vayu's adaptation configs
 
