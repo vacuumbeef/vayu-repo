@@ -4,7 +4,7 @@ Hash: SHA512
 Architectures: all
 Codename: bookworm
 Components: main
-Date: Wed, 11 Oct 2023 10:18:42 +0000
+Date: Wed, 11 Oct 2023 14:14:05 +0000
 Description: Repository for xiaomi vayu
 Label: vacuumbeef
 Origin: vacuumbeef
@@ -12,7 +12,7 @@ Suite: bookworm
 MD5Sum:
  f04a499ebcdc9464773f90d677f76d59              692 Contents-all.bz2
  bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 Contents-all.gz
- 6f28d0f3c64dfe9afd77633932324d36              186 Release
+ 819cf4f69ce887acf809ce9f830dcd0a              186 Release
  f04a499ebcdc9464773f90d677f76d59              692 main/Contents-all.bz2
  bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 main/Contents-all.gz
  95a392f78a063ce48611480c2ef186d4             1344 main/binary-all/Packages
@@ -21,7 +21,7 @@ MD5Sum:
 SHA1:
  8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 Contents-all.bz2
  437f46d083419e0a655aa91b05c86a9433f5e4c8              587 Contents-all.gz
- eb86a6bedd1c697e9fcc8000878f028530937a8f              186 Release
+ 396d5fc250716b16d832ee839f4e9d122b75a3fd              186 Release
  8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 main/Contents-all.bz2
  437f46d083419e0a655aa91b05c86a9433f5e4c8              587 main/Contents-all.gz
  d7fc6c44cda90c1aeb2d6f2c3a04690d3a3bc4ba             1344 main/binary-all/Packages
@@ -30,7 +30,7 @@ SHA1:
 SHA256:
  e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 Contents-all.bz2
  1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 Contents-all.gz
- b8ddf42aa8f03221476c47141a05f008ca3ee5513d0079f7553652d0b3c296c1              186 Release
+ b9217136a9ee4ae8ab718e4f15bbf96c214000863accf707fb0616fa54418117              186 Release
  e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 main/Contents-all.bz2
  1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 main/Contents-all.gz
  1be0f8a40fc97afcc5732042de2c1d85ed467035cae9a32e2efee5e7ede0c687             1344 main/binary-all/Packages
@@ -39,7 +39,7 @@ SHA256:
 SHA512:
  02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 Contents-all.bz2
  1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 Contents-all.gz
- 49769b3b3d06c1b0f9767626fe91fa5ec428f24bcc0752dd4a9a4b930fece3af9fe9210f77e87e510c8cb4c40685f9d70d5c7bce95b32e1a3f0baaf2a0daaab0              186 Release
+ 035c304c20f56ead0cd5f246edbcaf81a7d5621d2744a2f609e0c3a996552d04618279ecf8de74f50968e3dc2a338ed974a53659d454f4ef6c3d531a6f78f083              186 Release
  02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 main/Contents-all.bz2
  1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 main/Contents-all.gz
  93bbe1d059234f4c35f68ef10086faf168f207bd4f8d23cba2ce581d784050b2a4cf7ce15be2fa225098c65761866d36cf85b0a81b94ff2d680da0a695a6fea7             1344 main/binary-all/Packages
@@ -47,17 +47,17 @@ SHA512:
  777ae17ee7e2f8d8fc8b016dab2ccd675078d6b7be3ab7e7eec88b4eaf7a3f2858dde11f108428806c6e0e603ff60ee808b444715dcd4399c7bc3b4d2d1a8420              726 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESbgNwdDPTX85UIFSrUDr7HWcZMAFAmUmdpQACgkQrUDr7HWc
-ZMAgUQ//To80g7947vIO4wUxo6ElPrF4axIYvhWop7RPKm+ja97u8+R7xpP+w6h8
-bpQek/PKgH9wZahbhVIhsRDqkxDNtzyKGHgUrpYLyKEX7A0Pm1G+ozw2UeJBtPnh
-qyLkl9KNUdK3FgQJxdhtNpCnCNhIr+cZChWk5n7Gqi6CMzVOj3jl5aNi2LRt/hXg
-l06zPg6DA93L6JvokpTcgCP00Enkl4nQMk4WNaALRJ1FcKF2qdywYHixbWzb+1VL
-EFimhzzD2cG3jB6GcgKAwX9mhbP4cjPfNW9fibh16V9g4BfWOPgtSuZxl2Z/tGm4
-8bxw9YcCuBbAaKWLStWARdnO5bVMnk2rsTz21zZhfkdyeaowDO28kt6nVuKaeOX/
-Qqn66TgNXaJdiJoPU9JKi68ZsExkjk7tP8r1cUCSTOy5aqDDjhJ+k+eo3ItPHVC8
-nClzJDnzoV4ThgoRRRIDe2vhK4U0mH7uI82aCUzoKWLrOzNwp/V1to7SnzDBwHMF
-5tp5IYRI6A8cQeZLS4PW6WUDU6A+hJdBj/GXoGFrcqvp4GcCUhBXfSstTi/LI2se
-oRtUU51CwnWOQA8dI8mg6VzX5IupqD6y4Ln8sdACk4iF7DDLbxYL2iGRaqdXecDS
-KNCpCgrAgS212a2ZCkSizFMtxckLml8PMMfHP5prUSZJ/TZoHlE=
-=zDAC
+iQIzBAEBCgAdFiEESbgNwdDPTX85UIFSrUDr7HWcZMAFAmUmrbMACgkQrUDr7HWc
+ZMD6nQ/+JzdLhF2pamc44pq0EaLUbMs91q1hEsFs6DJpkOZAWl6lIR4MAh07JbLj
+nFuPk+fDl05LEgUjuLnXDgtoPY4UL9LvfsvQ5LXMqJHhvL+BZYXFYVT1kxcDkFgd
+9O5tpH3HEWl9QM3sUjulQmtrR6lSuL+mPcg8QqNFFtoqU7oMhmjETqbmvD9y7zqG
+uLuxklbABrXSOm0U7/HyhvNwtGpdI20dvfUb9xmdBFRhNcmavKRbuTQOCtca/Yse
+mqzkVaE7ctAzGr22g2dg8wAmdGaG96q5vRZ4tfi+3mQMzYgZLnXnFxiRHDlVXqwN
+keFzMR6/w6+uSXJPxjbIZCMA4MmeA35ZRdshRl+6XYqwqfeOX5G0Vj30PlpsFxpE
+SfjHhwPT6zba98tmQSilk4K0V06hWG++pQbanZJYqTv/OKOxNJyug3GaUZPZWEYZ
+JNxDTgKpbTWNx9VqaLJZDG8Fv3s1qofnGwvJa8nD0CHYDQjAg8A895uTxQ4UErLw
+As+njmiWdN+2Wmt8y52ET92c0tocgSAUdhSIFzN7vw+JaUgTBIQOXZxLMTnyubdS
+FCdsua0HeM8EtYreXZnmYDnMt2QCXipQWGcT+7zxEGLgULp4Cuf+K53/qoO5Op58
+z2Hd1CylL8J1swWDH+lI/5SMP0zPyPpoG3dU6MXjmlZRObW4a0w=
+=l5R3
 -----END PGP SIGNATURE-----
