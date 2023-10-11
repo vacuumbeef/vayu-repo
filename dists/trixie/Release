@@ -1,15 +1,15 @@
 Architectures: all
-Codename: trixie
+Codename: bookworm
 Components: main
-Date: Mon, 09 Oct 2023 19:39:53 +0000
+Date: Wed, 11 Oct 2023 11:03:14 +0000
 Description: Repository for xiaomi vayu
 Label: vacuumbeef
 Origin: vacuumbeef
-Suite: trixie
+Suite: bookworm
 MD5Sum:
  f04a499ebcdc9464773f90d677f76d59              692 Contents-all.bz2
  bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 Contents-all.gz
- 78086736755d16eceefdcd87a8410249              182 Release
+ 67a10e60489bef7f04ee6d58161418f2              186 Release
  f04a499ebcdc9464773f90d677f76d59              692 main/Contents-all.bz2
  bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 main/Contents-all.gz
  95a392f78a063ce48611480c2ef186d4             1344 main/binary-all/Packages
@@ -18,7 +18,7 @@ MD5Sum:
 SHA1:
  8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 Contents-all.bz2
  437f46d083419e0a655aa91b05c86a9433f5e4c8              587 Contents-all.gz
- a8cb9ec72892896f03e6727bcacead83f97612a3              182 Release
+ 073fa46532298a3d1336e4e48436d5f5410db166              186 Release
  8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 main/Contents-all.bz2
  437f46d083419e0a655aa91b05c86a9433f5e4c8              587 main/Contents-all.gz
  d7fc6c44cda90c1aeb2d6f2c3a04690d3a3bc4ba             1344 main/binary-all/Packages
@@ -27,7 +27,7 @@ SHA1:
 SHA256:
  e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 Contents-all.bz2
  1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 Contents-all.gz
- a38c06ae4813b82e6db7006f2ec45ce4e0e0b9b8bdd52bb0a558631fe89c5840              182 Release
+ 6cd16619e8249c5b2b031995f41b28a7a2a86209c1d3351df9271f9c2cf2059a              186 Release
  e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 main/Contents-all.bz2
  1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 main/Contents-all.gz
  1be0f8a40fc97afcc5732042de2c1d85ed467035cae9a32e2efee5e7ede0c687             1344 main/binary-all/Packages
@@ -36,7 +36,7 @@ SHA256:
 SHA512:
  02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 Contents-all.bz2
  1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 Contents-all.gz
- 4b43ae0f13b2fcfb1b14d7d78a76b43ee6dcef010e4bc7de27ea0d700a9eb4cb187ab358c34b7f646e7b945ac0cb5c05226cc05b499d0db357465f0b11ce21ba              182 Release
+ 0ce69ac780eb7b822273e81a15dfb29cb5982bd61680f7cceac46ed92c52728f272d6283131ef32f094ddbed696a8c2116f7f2b5071796a019857bcca844adb1              186 Release
  02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 main/Contents-all.bz2
  1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 main/Contents-all.gz
  93bbe1d059234f4c35f68ef10086faf168f207bd4f8d23cba2ce581d784050b2a4cf7ce15be2fa225098c65761866d36cf85b0a81b94ff2d680da0a695a6fea7             1344 main/binary-all/Packages
