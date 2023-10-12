@@ -1,34 +1,34 @@
 Package: adaptation-droidian-vayu
 Architecture: all
-Version: 0.1+3
+Version: 0.1+2
 Priority: optional
 Section: metapackages
 Maintainer: vacuumbeef
 Installed-Size: 9
-Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr, droidian-camera, gstreamer1.0-tools
-Filename: pool/main/adaptation-droidian-vayu_0.1+3_all.deb
-Size: 2080
-MD5sum: 4ee15ae847b3431e6b4a2717271cafc3
-SHA1: c6e79aff3ad7f3600fc74f99f46826bb2b381cd0
-SHA256: 1610d7fe3217430fb0aeb8a0f353f8495903d0de9f229f73e2418451490d5219
-SHA512: 630b1af371a9244ef5ba52d6a8a3aef051a5e711ca0aaf40279be6d58919621e059441a04ee3b6d1f994951f0a6203d0c3bd572dad204ca33ae9565db48949f5
+Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr
+Filename: pool/main/adaptation-droidian-vayu_0.1+2_all.deb
+Size: 2056
+MD5sum: 4b2ad651732bb697c978e1c47f75429f
+SHA1: a608c2f93bde2f88cc8e42ffbf3eaf1b38bf158b
+SHA256: 44ffac9d3c43746d3787f006ad41bab39638d6b244f23c017d63bef787b8d6ae
+SHA512: 64033167a0ed9628f34e9c710819726d894ab0fe15269dcc74758bf2037681224fe7bcc909145f6574fc87e921f31d27ed2ecde550e4c0c9437b29b728a67a5a
 Description: adapatation-vayu-meta
  vayu api30 adaptation metapackage
 
 Package: adaptation-vayu-configs
 Architecture: all
-Version: 0.1+3
+Version: 0.1+2
 Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 101
+Installed-Size: 95
 Depends: dconf-gsettings-backend | gsettings-backend
-Filename: pool/main/adaptation-vayu-configs_0.1+3_all.deb
-Size: 10876
-MD5sum: 13f7cdd65bb32081e08a8f4a53305bc2
-SHA1: 45ce601ec1644a3c36bdc7ab2df3146d23af49c2
-SHA256: a04547348c2b9be3688efa399f336a8d90541300b0205e43175925b92626cf42
-SHA512: fc60ea91d2f39a25fcc3f7e7ed55f70d2ce7e5d8a7818b4a6bff1bce5e3fdba81c17da6be9d3e3a3d24485abde674cc2c3b940a9c633d21ceeaf6f6636dd164b
+Filename: pool/main/adaptation-vayu-configs_0.1+2_all.deb
+Size: 10172
+MD5sum: d2bf32efb2ed621fec76d9cd0aa006a6
+SHA1: 22d06ef69fa78d79b65abd64925f9c7e0d853a1b
+SHA256: ff9ad92547f96d73a8f6795d10252a0749851bb8de8884446df447a985a6ce07
+SHA512: 6a071d57a76aac56200e6c75575574bad88b54e6623de658fb155ff10c7e42dc489832fe7a9f7596277ba1a5a4c589cecb5235ff1c5c39ff986bb3a9bfedf8ea
 Description: vayu's adaptation configs
 
