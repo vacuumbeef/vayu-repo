@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all
+Codename: trixie
+Components: main
+Date: Fri, 13 Oct 2023 18:33:05 +0000
+Description: Repository for xiaomi vayu
+Label: vacuumbeef
+Origin: vacuumbeef
+Suite: trixie
+MD5Sum:
+ f04a499ebcdc9464773f90d677f76d59              692 Contents-all.bz2
+ bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 Contents-all.gz
+ c95196f38d6315b9dc6869de41614431              182 Release
+ f04a499ebcdc9464773f90d677f76d59              692 main/Contents-all.bz2
+ bfa6081a4aa4c83dbb3ebf844c7a5bd0              587 main/Contents-all.gz
+ f032bc8a9cba610f0fa9966e470c623d             1344 main/binary-all/Packages
+ a4f56193510811b9f2854960d7e2ebc9              783 main/binary-all/Packages.bz2
+ 1a35b524fc9941b7916a699e7491c602              725 main/binary-all/Packages.gz
+SHA1:
+ 8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 Contents-all.bz2
+ 437f46d083419e0a655aa91b05c86a9433f5e4c8              587 Contents-all.gz
+ 9716d48b55678d7c2d70629d40122f3ce0524a88              182 Release
+ 8a73dfc74c5df608823f2c92c154257a2bfec0e3              692 main/Contents-all.bz2
+ 437f46d083419e0a655aa91b05c86a9433f5e4c8              587 main/Contents-all.gz
+ 54090687b0766c8bab60272b4fca648b83325855             1344 main/binary-all/Packages
+ 331779ce6a90932dfcf30ea81504a095acbdfdb0              783 main/binary-all/Packages.bz2
+ 3f05e48027320b89f354f400b1187f2cba387174              725 main/binary-all/Packages.gz
+SHA256:
+ e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 Contents-all.bz2
+ 1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 Contents-all.gz
+ d0dc5598b2d4dff48888d6254bbd0031ab6db6b78919ebae67e28caecf3b78e9              182 Release
+ e43c703f1501f80b18e72541e7b00aa90a57a652ae9130f597b979a9d7f89833              692 main/Contents-all.bz2
+ 1a0947d64363fa5f5f856ef697c33acfc52d1990d6643fbd8e79dc69f5b68935              587 main/Contents-all.gz
+ f1b98b75e38601eeb0a62ca381d8bd566c1524d961a9a3f9731f6b80669b85d6             1344 main/binary-all/Packages
+ f794fa4c4b1030fd55f9fc402f419b3eabb034f5775b57e6a7116db27a73e726              783 main/binary-all/Packages.bz2
+ a024f3da7022974a36df095b23faa396ce93f5eabb81e1e24099821f83e7a2e4              725 main/binary-all/Packages.gz
+SHA512:
+ 02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 Contents-all.bz2
+ 1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 Contents-all.gz
+ 7eff198386c2a03edc8d4bcbc018403b2ef57cb494cac3e6bdd1f627b1808a1102b4390b045cce6c9614b14f45ceec95b621a0f6913359e258a79bf60eb8bc8f              182 Release
+ 02bc25d15023163b01a9db28b60ab6423fbef33f405978c438ad87c8dd8cb6d89b6470e51b7e666fdc60247637527986fd360a0ae52e1c22c9ecc788ba76570d              692 main/Contents-all.bz2
+ 1a9a805740b7282897859c3d1566b7c82731db3946c0d092a935548e0f04fe180df7e3845c5febed122ac25b18eace8b1e9bea45398822d264b9cde333775808              587 main/Contents-all.gz
+ dbd090c6a0849ce3dc83435864b7a9816c319c70ae29247f1ad88f111d507f02847a6b3a87412742e96a2323fa15caca22521c1412034edfc5fd66afd5a382ca             1344 main/binary-all/Packages
+ e225fed014037a54069915cdc7aee51cff3297bd944dc6efe94d2f08bb6bb5c0098528c5296f0d5a2875e2412488da4d263285910a34fbd7e0b9850b5e06ac5c              783 main/binary-all/Packages.bz2
+ d4f3960860f4f749f104f0c41211eeabf3eb345d4820ad69fcdba7555a786f5af3c7f8c29d6ed18b88bfb34c844dc9934b62e1948dc83c54a3787cec0bbcf636              725 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEESbgNwdDPTX85UIFSrUDr7HWcZMAFAmUpjWYACgkQrUDr7HWc
+ZMBhTBAAg4GRI0kLz03wE4S8oGOxqJIK7Ucwub9KM+BQZS41Td09mSbOa4N3DsYm
+qMs95Qy2pv8j3NHfOf62SRg0SlzLUtAdkNQHawaukz7xoecXJqQw7+Lggwz9leFH
+KwZGQ98PusbLy1zusA6EZTEcwufECygybW0xSFJR2BFAIAdUkrRtjPZvIFnjHW6B
+ifZMVPwVJx6O/Yjt2EN0BJiGV3zzISZB3LmeCNaIJ8WSO/CcXnzYEyrX1j/YH3SB
+yeju/QX3rxOPHYI+DAj2/Pl8GdpccPGBfLtBhJCVdRcuEkeJvCGxLL9tB8oJbpWA
+rMVj1ByAI+gP2Oy8Sc6VAh/+I8R6j4eOZpWNfU+7UCjTFNQEcJoDg6gV805GvQJj
+7Z59DOZjkUoe/bFnZsyybklniYQyjBCCpST8Ri6aaaWoE84OtlfCw8BeNmMl0Cvf
+dwC+sCb7oHaC1h2Cfl2WZjDPNEa2J5M1BETcnFtbXZvEHK6cibkutX1nb6F0rEP5
+YaIuFBf/xblqyvFkV5fUWrLoyaJ17XZ/Cqjiw7EXHm5pIi1rsKX8upscCD1HqKli
+OKPswHb5eQyUE3wby/XV6wGvyK51lHEYTmZfvl43fdsavoWIosLcZN6QD/ohyIsD
+X7p+7vlHJsLhiHcOK3AEgy8LaM5Yzn8eODXiuOD6vuhcVC2UlUw=
+=ULwv
+-----END PGP SIGNATURE-----
