@@ -7,11 +7,11 @@ Maintainer: vacuumbeef
 Installed-Size: 9
 Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr, droidian-camera, gstreamer1.0-tools
 Filename: pool/main/adaptation-droidian-vayu_0.1+3_all.deb
-Size: 2084
-MD5sum: e11da1fbab0976c8460b2ace4412daa6
-SHA1: bcb6a97cc0a218583a13dd92d67b62b94df3280b
-SHA256: aae8080b338e39723c67997e4bf2dbc9bab73791f0f0f64356d170846cf4a5c1
-SHA512: d5e639653a00fa8a5fe39a677bac004d9d3cc3ab88c9f93ebc3230c4ecc4bdc860009c6acded7a5f5379f89e4e234d14a4030aa8a3f46df4dc957c73238a5a86
+Size: 2080
+MD5sum: 4ee15ae847b3431e6b4a2717271cafc3
+SHA1: c6e79aff3ad7f3600fc74f99f46826bb2b381cd0
+SHA256: 1610d7fe3217430fb0aeb8a0f353f8495903d0de9f229f73e2418451490d5219
+SHA512: 630b1af371a9244ef5ba52d6a8a3aef051a5e711ca0aaf40279be6d58919621e059441a04ee3b6d1f994951f0a6203d0c3bd572dad204ca33ae9565db48949f5
 Description: adapatation-vayu-meta
  vayu api30 adaptation metapackage
 
@@ -22,13 +22,13 @@ Priority: optional
 Section: metapackages
 Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 101
+Installed-Size: 105
 Depends: dconf-gsettings-backend | gsettings-backend
 Filename: pool/main/adaptation-vayu-configs_0.1+3_all.deb
-Size: 10868
-MD5sum: 7f3e9e16a167a4c457d14a3ebb794977
-SHA1: 71459db4a3132fc6f45609a09c9ec2d776f03763
-SHA256: 0c9e492c73ef35246484a4244a0c16270fadcac71a6f8a6796933bc98e31f0c4
-SHA512: 332c701b1a2cc518ecee441d14c0fba60decff79a851824fff9116ebdd59b0d14d24a7a3e0d2b9c9196dd8736ac96b91f2092b087d5caa2b59e6da86f85090e6
+Size: 11100
+MD5sum: 4a0239434ff3fa84bc457b463ba6e953
+SHA1: 663031850066bf5413a70c2fd3f5ac3163eb65ec
+SHA256: 0f7a60c538f180d99e1c0768d1511e9efb7b6130518e48bf1ca2eee2c1b902ae
+SHA512: f8e81bf11ea4776134263b1691d72a21d039eea90c024d8f7466c23776f36ffcfc84e43ae7a21ba73d7f9dd50bab8e37cee6a1952462995a56ae6c088a9ddc24
 Description: vayu's adaptation configs
 
