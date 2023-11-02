@@ -46,3 +46,17 @@ SHA512: 635c601cea79ca50f040078980f37428a9b921d3ad3fd594d3a193c99f3156d9222febb7
 Homepage: https://github.com/elkowar/eww
 Description: Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
 
+Package: lisgd
+Architecture: all
+Version: 0.3.7
+Maintainer: vacuumbeef
+Depends: libwayland-client0
+Filename: pool/main/lisgd-0.3.7-1_all.deb
+Size: 8836
+MD5sum: a20f870de7eb50e5f535b9eb38335bd2
+SHA1: d859f738a44fbf82f229f28289acdee4bb5e7a3d
+SHA256: 7144089ca8a2faf81e4aefeedaee1807b4d5c9f7881e643016f679132036300b
+SHA512: 1aa89708ba1aa2e2ed8922f2b8eb58fd5014c34dae849a50f3a93961cc05ed9b61161b6cde71bc5ca7fa6eb6e06a3c1589c4da1f307ae8445d9b451a2c2e9bde
+Homepage: https://git.sr.ht/~mil/lisgd
+Description: Lisgd (libinput synthetic gesture daemon) lets you bind gestures based on libinput touch events to run specific commands to execute.
+
