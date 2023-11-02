@@ -32,3 +32,17 @@ SHA256: d60ba497dc0bdcd77b7b17aec85c94ce092aeb12d92be0a99f87c089d3aab68d
 SHA512: f3f8af08e855d2e6c76cac7d8157f360c80e108d7460fa3a196a27c389a8ebd50197620fc84ffda174a52dddeacaa541287d7faf4b181e03e8b75797e0f9d107
 Description: vayu's adaptation configs
 
+Package: eww
+Architecture: all
+Version: 0.4.0
+Maintainer: vacuumbeef
+Depends: libgtk-3-0, libgtk-layer-shell0
+Filename: pool/main/eww-0.4.0-1_all.deb
+Size: 4008648
+MD5sum: 75cf81178a094dfc8985f2a1e2edc34b
+SHA1: 1c74865c34e2046f3685e4b85b5293c23a9b060d
+SHA256: b778bf5eb75ef41f1e4eb99657d80fc2a3ff68e373851a539539048cb0781465
+SHA512: 635c601cea79ca50f040078980f37428a9b921d3ad3fd594d3a193c99f3156d9222febb70168d31026b345d40924ae6903036f1ca5f673196ff0e2eb21979bf3
+Homepage: https://github.com/elkowar/eww
+Description: Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
+
