@@ -46,19 +46,6 @@ SHA512: 635c601cea79ca50f040078980f37428a9b921d3ad3fd594d3a193c99f3156d9222febb7
 Homepage: https://github.com/elkowar/eww
 Description: Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
 
-Package: phosh-overlay-gestures
-Architecture: all
-Version: 0.1
-Maintainer: vacuumbeef
-Depends: rofi-wayland, lisgd, eww, wtype
-Filename: pool/main/phosh-overlay-gestures-0.1-1_all.deb
-Size: 3044
-MD5sum: 94cea876b187ef83679c8f75f338ab4a
-SHA1: 4dc8b28301ed0d3d561c79f08f8fa3c5b60e2f9b
-SHA256: 63607a3963d2dbc142dc8f83fefd0e7593c40dae5039562292ebbd3523a448f7
-SHA512: 73b542d0c5e7b6998feed466e7a40d8756dcbacc27d71013acb15415cbef6c4d0ec57027f81db13c733f3663be3798b71e32efbdaea9f31acd749d65c52d93f5
-Description: Additional swipe gestures to use with phosh (using lisgd), and quick menu overlay (eww)
-
 Package: rofi-wayland
 Architecture: all
 Version: 1.7.5
