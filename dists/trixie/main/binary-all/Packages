@@ -46,3 +46,18 @@ SHA512: 635c601cea79ca50f040078980f37428a9b921d3ad3fd594d3a193c99f3156d9222febb7
 Homepage: https://github.com/elkowar/eww
 Description: Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
 
+Package: rofi-wayland
+Architecture: all
+Version: 1.7.5
+Maintainer: vacuumbeef
+Depends: libgtk-3-0
+Conflicts: rofi, rofi-dev
+Filename: pool/main/rofi-wayland-1.7.5-1_all.deb
+Size: 414888
+MD5sum: dc31d6f80174e0de22cf1c954ea54824
+SHA1: 1c68244dbbec4d35edfd2b03997a59d8f66a0ce4
+SHA256: 09912331babcf794f29af6afba75717737af79bea673bf8ed17b78a4c6eddbe2
+SHA512: e6be109912d6ad301f9f83abf4542998826bca1e120ffde9c4849a228889fa9d319e39a58c0fde9b678a75cf6a927a9d8cc02f9e2e18f4299db95467a00899c8
+Homepage: https://github.com/lbonn/rofi
+Description: Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
+
