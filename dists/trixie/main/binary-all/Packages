@@ -63,14 +63,14 @@ Package: rofi-wayland
 Architecture: all
 Version: 1.7.5
 Maintainer: vacuumbeef
-Depends: libgtk-3-0
+Depends: libgtk-3-0, libxcb-ewmh2, libxcb-cursor0, libstartup-notification0
 Conflicts: rofi, rofi-dev
 Filename: pool/main/rofi-wayland-1.7.5-1_all.deb
-Size: 414888
-MD5sum: dc31d6f80174e0de22cf1c954ea54824
-SHA1: 1c68244dbbec4d35edfd2b03997a59d8f66a0ce4
-SHA256: 09912331babcf794f29af6afba75717737af79bea673bf8ed17b78a4c6eddbe2
-SHA512: e6be109912d6ad301f9f83abf4542998826bca1e120ffde9c4849a228889fa9d319e39a58c0fde9b678a75cf6a927a9d8cc02f9e2e18f4299db95467a00899c8
+Size: 415304
+MD5sum: 239eed00a6d12ca07af81f1b6ea8cae3
+SHA1: f71b57ae7520a67ead2366f081c304a7c3a130de
+SHA256: 2c1f97769fbbba002802a1cd7f0c626a7d7cffa562b234d10511c5d7cd49a056
+SHA512: 84d265d63dcd3d5da7e25ce906e6e39caaf59d2273283bd9a69813955a0f45c2a49da20990f5cfcbf7e5fbc4ce5cb0774476e6bc4e88be32514d2837879f1e02
 Homepage: https://github.com/lbonn/rofi
 Description: Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
 
