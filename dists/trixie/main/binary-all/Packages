@@ -50,14 +50,26 @@ Package: phosh-overlay-gestures
 Architecture: all
 Version: 0.1
 Maintainer: vacuumbeef
-Depends: rofi-wayland, lisgd, eww, wtype
+Depends: rofi-wayland, lisgd, eww, wtype, roboto-mono-nerd
 Filename: pool/main/phosh-overlay-gestures-0.1-1_all.deb
-Size: 3040
-MD5sum: 0e6ee45e2af702c04ebbd29b54ee2b18
-SHA1: 61930536a64a1c26c43325e19e68ba6ae887524f
-SHA256: fe638271458cdd80cb116cf3d955233589e3859aa6aa0d8d5bcacceaaefd88c1
-SHA512: 5a9ff1c424be7a88f895436523aac0e31179e1f9c6d5a9cac27a9c7dc618983c830db9472c0a174fafd42853f6601d0d82b228fbebb6eb232f27c573a6369e00
+Size: 3052
+MD5sum: 59e42245fbd37cec4593c316f40feb12
+SHA1: dbf8df8f45376ac24a6897d12cd7782e94c405d8
+SHA256: 413f9736329072191b3db013b169bd1dcb043bb00347ab18459fc34a344be97b
+SHA512: 2af654187a4537c60476ee9de320ec5aa43e6d78648a84488b653edf6ec2484402a8a50d01460c04d438adae6abd256cbc548381c25b1b9e87fcdd0979607e24
 Description: Additional swipe gestures to use with phosh (using lisgd), and quick menu overlay (eww)
+
+Package: roboto-mono-nerd
+Architecture: all
+Version: 1
+Maintainer: vacuumbeef
+Filename: pool/main/roboto-mono-nerd-0_all.deb
+Size: 2941048
+MD5sum: 75779dd5e8f08339d7650b5e0a54f587
+SHA1: bb9fa6dab7828c22f221009e47ab337302f1a5c3
+SHA256: 38db0306eb6c47fa76fb65a38d93c1bfd41ed7e21f5f349fd9de00f191e963bd
+SHA512: 8b290db4e95d5810ba0408d3b3c2e08fdc7ae2e66f1be3826aed3c1e5e277d6ef445b757e0c77ac0e946963b29e19ff2d628a18402b4ba38aac8b4f880b025d8
+Description: Roboto Mono Nerd font
 
 Package: rofi-wayland
 Architecture: all
