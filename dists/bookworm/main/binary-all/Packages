@@ -1,68 +1,71 @@
 Package: adaptation-droidian-vayu
+Version: 0.1+4
 Architecture: all
-Version: 0.1+2
-Priority: optional
-Section: metapackages
-Maintainer: vacuumbeef
-Installed-Size: 9
-Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr
-Filename: pool/main/adaptation-droidian-vayu_0.1+2_all.deb
-Size: 2056
-MD5sum: 4b2ad651732bb697c978e1c47f75429f
-SHA1: a608c2f93bde2f88cc8e42ffbf3eaf1b38bf158b
-SHA256: 44ffac9d3c43746d3787f006ad41bab39638d6b244f23c017d63bef787b8d6ae
-SHA512: 64033167a0ed9628f34e9c710819726d894ab0fe15269dcc74758bf2037681224fe7bcc909145f6574fc87e921f31d27ed2ecde550e4c0c9437b29b728a67a5a
-Description: adapatation-vayu-meta
- vayu api30 adaptation metapackage
-
-Package: adaptation-droidian-vayu
-Architecture: all
-Version: 0.1+3
-Priority: optional
-Section: metapackages
 Maintainer: vacuumbeef
 Installed-Size: 9
 Depends: adaptation-hybris-api30-phone, adaptation-vayu-configs, wlr-randr, droidian-camera, gstreamer1.0-tools
-Filename: pool/main/adaptation-droidian-vayu_0.1+3_all.deb
-Size: 2084
-MD5sum: e11da1fbab0976c8460b2ace4412daa6
-SHA1: bcb6a97cc0a218583a13dd92d67b62b94df3280b
-SHA256: aae8080b338e39723c67997e4bf2dbc9bab73791f0f0f64356d170846cf4a5c1
-SHA512: d5e639653a00fa8a5fe39a677bac004d9d3cc3ab88c9f93ebc3230c4ecc4bdc860009c6acded7a5f5379f89e4e234d14a4030aa8a3f46df4dc957c73238a5a86
+Filename: pool/main/adaptation-droidian-vayu_0.1+4_all.deb
+Size: 2088
+MD5sum: f421b5abd0db96517d296b8b2ac71301
+SHA1: e992dd8dde4e45f9f761afa09cabe289758c817a
+SHA256: d0b364634d755ffc7dc39ba8e46a81207b79532f0a94e2fe6003c706344c1584
+Section: metapackages
+Priority: optional
 Description: adapatation-vayu-meta
  vayu api30 adaptation metapackage
 
 Package: adaptation-vayu-configs
-Architecture: all
-Version: 0.1+2
-Priority: optional
-Section: metapackages
 Source: adaptation-droidian-vayu
+Version: 0.1+4
+Architecture: all
 Maintainer: vacuumbeef
-Installed-Size: 95
+Installed-Size: 105
 Depends: dconf-gsettings-backend | gsettings-backend
-Filename: pool/main/adaptation-vayu-configs_0.1+2_all.deb
-Size: 10172
-MD5sum: d2bf32efb2ed621fec76d9cd0aa006a6
-SHA1: 22d06ef69fa78d79b65abd64925f9c7e0d853a1b
-SHA256: ff9ad92547f96d73a8f6795d10252a0749851bb8de8884446df447a985a6ce07
-SHA512: 6a071d57a76aac56200e6c75575574bad88b54e6623de658fb155ff10c7e42dc489832fe7a9f7596277ba1a5a4c589cecb5235ff1c5c39ff986bb3a9bfedf8ea
+Filename: pool/main/adaptation-vayu-configs_0.1+4_all.deb
+Size: 11108
+MD5sum: 27df89d8f9a5327c53ae101a6f891a2b
+SHA1: fb0de4649fe0a9d2e65f3304f8b36e53352013ff
+SHA256: d60ba497dc0bdcd77b7b17aec85c94ce092aeb12d92be0a99f87c089d3aab68d
+Section: metapackages
+Priority: optional
 Description: vayu's adaptation configs
 
-Package: adaptation-vayu-configs
+Package: eww
+Version: 0.4.0
 Architecture: all
-Version: 0.1+3
-Priority: optional
-Section: metapackages
-Source: adaptation-droidian-vayu
 Maintainer: vacuumbeef
-Installed-Size: 101
-Depends: dconf-gsettings-backend | gsettings-backend
-Filename: pool/main/adaptation-vayu-configs_0.1+3_all.deb
-Size: 10868
-MD5sum: 7f3e9e16a167a4c457d14a3ebb794977
-SHA1: 71459db4a3132fc6f45609a09c9ec2d776f03763
-SHA256: 0c9e492c73ef35246484a4244a0c16270fadcac71a6f8a6796933bc98e31f0c4
-SHA512: 332c701b1a2cc518ecee441d14c0fba60decff79a851824fff9116ebdd59b0d14d24a7a3e0d2b9c9196dd8736ac96b91f2092b087d5caa2b59e6da86f85090e6
-Description: vayu's adaptation configs
+Depends: libgtk-3-0, libgtk-layer-shell0
+Filename: pool/main/eww-0.4.0-1_all.deb
+Size: 4008648
+MD5sum: 75cf81178a094dfc8985f2a1e2edc34b
+SHA1: 1c74865c34e2046f3685e4b85b5293c23a9b060d
+SHA256: b778bf5eb75ef41f1e4eb99657d80fc2a3ff68e373851a539539048cb0781465
+Homepage: https://github.com/elkowar/eww
+Description: Elkowars Wacky Widgets is a standalone widget system made in Rust that allows you to implement your own, custom widgets in any window manager.
+
+Package: phosh-overlay-gestures
+Version: 0.1
+Architecture: all
+Maintainer: vacuumbeef
+Depends: rofi-wayland, lisgd, eww, wtype
+Filename: pool/main/phosh-overlay-gestures-0.1-1_all.deb
+Size: 3044
+MD5sum: 94cea876b187ef83679c8f75f338ab4a
+SHA1: 4dc8b28301ed0d3d561c79f08f8fa3c5b60e2f9b
+SHA256: 63607a3963d2dbc142dc8f83fefd0e7593c40dae5039562292ebbd3523a448f7
+Description: Additional swipe gestures to use with phosh (using lisgd), and quick menu overlay (eww)
+
+Package: rofi-wayland
+Version: 1.7.5
+Architecture: all
+Maintainer: vacuumbeef
+Depends: libgtk-3-0
+Conflicts: rofi, rofi-dev
+Filename: pool/main/rofi-wayland-1.7.5-1_all.deb
+Size: 414888
+MD5sum: dc31d6f80174e0de22cf1c954ea54824
+SHA1: 1c68244dbbec4d35edfd2b03997a59d8f66a0ce4
+SHA256: 09912331babcf794f29af6afba75717737af79bea673bf8ed17b78a4c6eddbe2
+Homepage: https://github.com/lbonn/rofi
+Description: Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
 
