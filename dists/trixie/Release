@@ -1,44 +1,44 @@
 Architectures: all
 Codename: trixie
 Components: main
-Date: Fri, 03 Nov 2023 16:34:08 +0000
+Date: Fri, 03 Nov 2023 21:13:32 +0000
 Description: Repository for xiaomi vayu
 Label: vacuumbeef
 Origin: vacuumbeef
 Suite: trixie
 MD5Sum:
- cd32ef44cb52e67653c91ba3126cef47              748 Contents-all.bz2
- 179bdabaab25ba022c4d8ad2ff420520              631 Contents-all.gz
- 2ea3e5cdc2d5cd6c6755fd221e684f62              182 Release
- cd32ef44cb52e67653c91ba3126cef47              748 main/Contents-all.bz2
- 179bdabaab25ba022c4d8ad2ff420520              631 main/Contents-all.gz
- f2c492a9b5b659d7f4d43b5a3ca0997f             2628 main/binary-all/Packages
- 3fae9f35ad7f1fedfca337c2cfd5776d             1415 main/binary-all/Packages.bz2
- 154a784cf6be5a03ad0f268172762cc4             1357 main/binary-all/Packages.gz
+ a28fe3cab8a4e370cc3c7c32aad05560              839 Contents-all.bz2
+ b33030bcce13384a1a44217765c3fdba              720 Contents-all.gz
+ 56c54b42867f6ff34c8e35ecd074d743              182 Release
+ a28fe3cab8a4e370cc3c7c32aad05560              839 main/Contents-all.bz2
+ b33030bcce13384a1a44217765c3fdba              720 main/Contents-all.gz
+ 57b68ed81ee07cae20475fc4817da97e             3223 main/binary-all/Packages
+ 20f40b2a7101d128520a57da5b5c26cc             1682 main/binary-all/Packages.bz2
+ c9395cb85363d335a2fc3b3ce0312e28             1633 main/binary-all/Packages.gz
 SHA1:
- 070a70d5bcee31cf9bb784a949cfd87b201cc7b6              748 Contents-all.bz2
- 09d95fc9b1721a8ac7941b2c9e8c0741325ad30e              631 Contents-all.gz
- adbe15f9cff51320c4d6cb38bb38a83530539f3a              182 Release
- 070a70d5bcee31cf9bb784a949cfd87b201cc7b6              748 main/Contents-all.bz2
- 09d95fc9b1721a8ac7941b2c9e8c0741325ad30e              631 main/Contents-all.gz
- fbfc0c3dc4673a7469cd37c3c038ab893eeff9a6             2628 main/binary-all/Packages
- 40ba3c19e70c5e73b156bb0fbf5b9f1941f16bc8             1415 main/binary-all/Packages.bz2
- 263ce4acb36962a94ebca7fa2b1304e99c56e450             1357 main/binary-all/Packages.gz
+ 6b48c9c60e38caea6648aaa9e542b55d419f6864              839 Contents-all.bz2
+ ab38477dc00fbafc4c08a380634959c8613e77d3              720 Contents-all.gz
+ 24e4aa64382a7749bcdba72bdb59ee7fa015425e              182 Release
+ 6b48c9c60e38caea6648aaa9e542b55d419f6864              839 main/Contents-all.bz2
+ ab38477dc00fbafc4c08a380634959c8613e77d3              720 main/Contents-all.gz
+ 4ca0e8da379252aa3f5a5563bec5c5fc9460d908             3223 main/binary-all/Packages
+ f1eaedb2dd36353e618baf15407bf8409a993b59             1682 main/binary-all/Packages.bz2
+ 59e3e4ac37d05e1328a8f16d894791d344db5b02             1633 main/binary-all/Packages.gz
 SHA256:
- 6722143f033924cac8e006e530b5e46a9cc18049fc5b414172bdce72ae940ee7              748 Contents-all.bz2
- 4e31d9cc041645bc8d2ecf2440878e6d26278e85e2151387d7c511dcb70f8ff3              631 Contents-all.gz
- 2ab01efe4027158cbc57c6882211a9e1be40831969b8fdb42c530f44d8c89eb6              182 Release
- 6722143f033924cac8e006e530b5e46a9cc18049fc5b414172bdce72ae940ee7              748 main/Contents-all.bz2
- 4e31d9cc041645bc8d2ecf2440878e6d26278e85e2151387d7c511dcb70f8ff3              631 main/Contents-all.gz
- 91c1c7001b003101f758495024fa6260e2308624e89d03c915f2c00ca047d648             2628 main/binary-all/Packages
- 7ad3e265a6fca10d1193c6680112f05b4ffa0d05e36c38c84005f5a695a2956d             1415 main/binary-all/Packages.bz2
- dbb441947018eff64b7a7d33bb9cb69e5ad5d3af67dec5af9ff77355eeeded27             1357 main/binary-all/Packages.gz
+ 449b68025939cb805755e906c0abfb280140f85c8478cd566005d070658ca954              839 Contents-all.bz2
+ 87d8f8785defbbd792059cbc60cfca64852d44f9488b084b45ae81c0c295981c              720 Contents-all.gz
+ a7dced6bccfe0e796708456dfc8f663456fab44aa1c50b68e6162bb281b35bb3              182 Release
+ 449b68025939cb805755e906c0abfb280140f85c8478cd566005d070658ca954              839 main/Contents-all.bz2
+ 87d8f8785defbbd792059cbc60cfca64852d44f9488b084b45ae81c0c295981c              720 main/Contents-all.gz
+ 75bb01d94e511f725309b0175c75a3b75f2dd7914f385b1433bed91498cab80b             3223 main/binary-all/Packages
+ c65cadae7535444d6481c5a0942794772c74d97ba55e8359dc49416769a711c5             1682 main/binary-all/Packages.bz2
+ 062d2605cfe13cf8215408662824f28536758e668536f274603406a37f7592b4             1633 main/binary-all/Packages.gz
 SHA512:
- 287c6bf655c210a8ae0bc03bf78866a01100feccdb87666a517f1be778283856cc4ae709756c4ab29a3c192d129cc6b13a739eff13756d038cfbee2606c93b70              748 Contents-all.bz2
- 9e79c82dbc60b747daec135bea282e1ab85d587ba2cc96085c5095c7c8e4902a216a17e7af2bdb5349271d57bf3cf14d530fce638e86f9a5e0db87f8a9cb820d              631 Contents-all.gz
- 7f4871d19da2cc434dd88f5e854b478112a094ecc5f23b505c281ea693f83e3559e52fcf19b5a8da2107ef71101994de66c75fa6f2b86c3f409fa7a0cf71d659              182 Release
- 287c6bf655c210a8ae0bc03bf78866a01100feccdb87666a517f1be778283856cc4ae709756c4ab29a3c192d129cc6b13a739eff13756d038cfbee2606c93b70              748 main/Contents-all.bz2
- 9e79c82dbc60b747daec135bea282e1ab85d587ba2cc96085c5095c7c8e4902a216a17e7af2bdb5349271d57bf3cf14d530fce638e86f9a5e0db87f8a9cb820d              631 main/Contents-all.gz
- e5c0bee27b08fd788b7b8d0e100373e038531af49ae5b541e3de3d0bbdfd6e67631736d1476f68e2e340787a8cd8252d2b331076d82de0b67805af3e4e8d1a25             2628 main/binary-all/Packages
- d93317e452040d1e25c22f0dc62126195bd09685c0d9488cac21605271387abd5a99bae5f148ed5ebf4c147ccead4cb0837bd4f4401639f36ec12c585c9b04c5             1415 main/binary-all/Packages.bz2
- 9220bcbbea280c4423aad6649d65622f42fd6150eaa3801ce93c928b42d0f61993f3f418db73f189fbb022ece9cd0c17264c70a29ac962a7dd04eddbefe35663             1357 main/binary-all/Packages.gz
+ 7fd7295648afa449c42aa3397a41413be1d1a26aa63ed401d1916d1bffcc2dcc1f931db7a73c22ecdb1fadf6fffb5dda6f6e829b63e78a6dcbb38f157f1d7b80              839 Contents-all.bz2
+ 0d14c10dfd9a2431c136b0ed3125fd81e493f91d10242f8fe352fc42c7d4b25313cbd53d7cd9707eb78795e7e7f7056b9c3f063c9860bf7506eb5637d252d552              720 Contents-all.gz
+ d94d911b0e1c216775920adacd0e7cd2be5961862a9d722da70a872663ffac345e177bf4641b5d402ca6dea010eac00558827547272c0b5eb575f08c8146be82              182 Release
+ 7fd7295648afa449c42aa3397a41413be1d1a26aa63ed401d1916d1bffcc2dcc1f931db7a73c22ecdb1fadf6fffb5dda6f6e829b63e78a6dcbb38f157f1d7b80              839 main/Contents-all.bz2
+ 0d14c10dfd9a2431c136b0ed3125fd81e493f91d10242f8fe352fc42c7d4b25313cbd53d7cd9707eb78795e7e7f7056b9c3f063c9860bf7506eb5637d252d552              720 main/Contents-all.gz
+ 47e2bae86ee0dc32adcc1ce103ccf3bf47538a322304f20a53424fe292faf68312ceb10bbb1b1333c201ccaa14d01a19c1c6451b0ce6943f276497d493d9e74a             3223 main/binary-all/Packages
+ 7031b9cf83f973a265bbe9f2d8b666437ae947208b483b580d75c679adabbcc8bb31ea077bd5f08bef56063208ad02a8fb4b3ee14d0247db4f01a0b26441dcf9             1682 main/binary-all/Packages.bz2
+ 842f8f9447be5af387b36f9f305b5e224536b919a5ce9165899ffc8584990b49c9d53d133b017b04a109be1e4ea45bf778407af3de66c42af357089b1708cd1b             1633 main/binary-all/Packages.gz
